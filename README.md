@@ -7,8 +7,6 @@
    <a href="https://hay-kot.github.io/homebox/">Docs</a>
    |
    <a href="https://homebox.fly.dev">Demo</a>
-   |
-   <a href="https://discord.gg/tuncmNrE4z">Discord</a>
 </p>
 
 ## Quick Start
