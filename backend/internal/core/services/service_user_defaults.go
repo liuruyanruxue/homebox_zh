@@ -7,28 +7,28 @@ import (
 func defaultLocations() []repo.LocationCreate {
 	return []repo.LocationCreate{
 		{
-			Name: "Living Room",
+			Name: "客厅",
 		},
 		{
-			Name: "Garage",
+			Name: "车库",
 		},
 		{
-			Name: "Kitchen",
+			Name: "厨房",
 		},
 		{
-			Name: "Bedroom",
+			Name: "卧室",
 		},
 		{
-			Name: "Bathroom",
+			Name: "浴室",
 		},
 		{
-			Name: "Office",
+			Name: "办公室",
 		},
 		{
-			Name: "Attic",
+			Name: "阁楼",
 		},
 		{
-			Name: "Basement",
+			Name: "地下室",
 		},
 	}
 }
@@ -36,22 +36,22 @@ func defaultLocations() []repo.LocationCreate {
 func defaultLabels() []repo.LabelCreate {
 	return []repo.LabelCreate{
 		{
-			Name: "Appliances",
+			Name: "家电",
 		},
 		{
-			Name: "IOT",
+			Name: "物联网",
 		},
 		{
-			Name: "Electronics",
+			Name: "电子产品",
 		},
 		{
-			Name: "Servers",
+			Name: "服务器",
 		},
 		{
-			Name: "General",
+			Name: "一般",
 		},
 		{
-			Name: "Important",
+			Name: "重要",
 		},
 	}
 }
