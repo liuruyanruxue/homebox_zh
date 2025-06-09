@@ -11,7 +11,7 @@
 
 ## 快速开始
 
-[Configuration & Docker Compose](https://hay-kot.github.io/homebox/quick-start)
+[配置 ducker run启动](https://hay-kot.github.io/homebox/quick-start)
 
 ```bash
 # If using the rootless image, ensure data 
@@ -31,9 +31,11 @@ docker run -d \
 <!-- CONTRIBUTING -->
 ## 贡献
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+本项目来源[原作者](https://github.com/hay-kot/homebox)
 
-If you are not a coder, you can still contribute financially. Financial contributions help me prioritize working on this project over others and helps me know that there is a real demand for project development.
+贡献使开源社区成为一个学习、启发和创造的神奇场所。你所做的任何贡献我们都非常感激。
+
+如果你不是程序员，你仍然可以在经济上做出贡献。财务捐助帮助我优先处理这个项目，并帮助我了解项目开发的实际需求。
 
 <a href="https://www.buymeacoffee.com/haykot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 107px !important;" ></a>
 ## Credits
