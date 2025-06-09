@@ -4,12 +4,12 @@
 
 <h1 align="center" style="margin-top: -10px"> HomeBox </h1>
 <p align="center" style="width: 100;">
-   <a href="https://hay-kot.github.io/homebox/">Docs</a>
+   <a href="https://hay-kot.github.io/homebox/">文档</a>
    |
-   <a href="https://homebox.fly.dev">Demo</a>
+   <a href="https://homebox.fly.dev">演示</a>
 </p>
 
-## Quick Start
+## 快速开始
 
 [Configuration & Docker Compose](https://hay-kot.github.io/homebox/quick-start)
 
@@ -29,7 +29,7 @@ docker run -d \
 ```
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 贡献
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
