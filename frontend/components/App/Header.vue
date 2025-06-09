@@ -37,19 +37,19 @@
 
   const dropdown = [
     {
-      name: "Item / Asset",
+      name: "项目 / 资产",
       action: () => {
         modals.item = true;
       },
     },
     {
-      name: "Location",
+      name: "位置",
       action: () => {
         modals.location = true;
       },
     },
     {
-      name: "Label",
+      name: "标签",
       action: () => {
         modals.label = true;
       },
