@@ -3,6 +3,8 @@
 </div>
 
 <h1 align="center" style="margin-top: -10px"> HomeBox </h1>
+<h2 align="center" style="margin-top: -10px"> Homebox 是为家庭用户构建的库存和组织系统！ </h2>
+
 <p align="center" style="width: 100;">
    <a href="https://hay-kot.github.io/homebox/">文档</a>
    |
